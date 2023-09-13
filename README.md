@@ -1,16 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`]
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+Explore a news app built with Next.js, offering a seamless reading experience with access to a wide range of articles.
 
 
 
