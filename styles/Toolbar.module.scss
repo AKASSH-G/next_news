@@ -1,0 +1,16 @@
+.main {
+  width: 66%;
+  height: 50px;
+  display: flex;
+  margin: auto;
+  justify-content: space-between;
+}
+  
+
+  .main div {
+    margin: 25px;
+    cursor: pointer;
+  }
+  .main div:hover {
+    color: rgb(165, 34, 34);
+  }

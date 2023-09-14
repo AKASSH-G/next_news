@@ -1,6 +1,7 @@
 import Image from 'next/image'
-import styles from '../styles/Home.module.css';
+import styles from '../styles/Home.module.scss';
 import { Toolbar } from '@/components/toolbar';
+import variables from '../styles/variables.module.scss'
 
 
 export default function Home() {
@@ -8,7 +9,7 @@ export default function Home() {
     
     <div className='page-container'>
     <Toolbar />
-
+      
       <div className={styles.main}>
         <h1>Akassh's news app</h1>
  

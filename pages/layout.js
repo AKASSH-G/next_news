@@ -1,4 +1,4 @@
-import './globals.css'
+import './globals.shouldComponentUpdate(nextProps, nextState) { first }css'
 import { Inter } from 'next/font/google'
 
 const inter = Inter({ subsets: ['latin'] })
